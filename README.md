@@ -33,6 +33,7 @@ instant exchange rate
 USD = 0.8413
 ------------result------------
 100.0 USD = 84.13
+shell'''
 In this example, the exchange rate from USD to EUR is 0.8413, and the converted amount is 84.13 EUR.
 Credits
 
