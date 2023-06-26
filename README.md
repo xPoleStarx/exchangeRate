@@ -27,13 +27,14 @@ Let's say we want to convert 100 USD to EUR.
 What currency do you want to exchange?: USD
 What currency do you want to exchange to?: EUR
 Enter the amount you want to exchange: 100
+
 Output:
 -------------------------------
 instant exchange rate
 USD = 0.8413
 ------------result------------
 100.0 USD = 84.13
-'''
+```
 In this example, the exchange rate from USD to EUR is 0.8413, and the converted amount is 84.13 EUR.
 Credits
 
