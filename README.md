@@ -1,4 +1,3 @@
-cat > README.md << EOF
 # Currency Exchange Rate Calculator
 
 This is a simple Python script that calculates the exchange rate between two currencies using the ExchangeRate API. It takes user input for the base currency, the target currency, and the amount to be exchanged.
